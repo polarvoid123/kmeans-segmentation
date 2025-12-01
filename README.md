@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means Clustering
+# 🎯 Customer Segmentation using K-Means Clustering
 
 ## Business Problem
 Traditional marketing approaches treat all customers equally, leading to inefficient resource allocation. This project segments customers into distinct groups based on purchasing behavior to enable targeted marketing strategies.
