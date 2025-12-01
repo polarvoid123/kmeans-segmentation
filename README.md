@@ -1,3 +1,5 @@
+# Edit README.md lagi untuk perfection
+cat > README.md << 'EOF'
 # 🎯 Customer Segmentation using K-Means Clustering
 
 ## 📊 Business Problem
@@ -16,16 +18,7 @@ Traditional marketing approaches treat all customers equally, leading to ineffic
 ## 🛠️ Tech Stack
 - Python 3.9
 - Pandas & NumPy (Data Processing)
-- Scikit-learn (Machine Learning) 
+- Scikit-learn (Machine Learning)
 - Matplotlib & Seaborn (Visualization)
 
 ## 📁 Project Structure
-kmeans-segmentation/
-├── data/                   # Customer data
-├── notebooks/              # Jupyter analysis
-├── src/                    # Python modules
-├── deployment/             # Streamlit app
-└── results/                # Output visualizations
-
-## 👨‍💻 Author
-**Yuda TW** - Data Analyst
