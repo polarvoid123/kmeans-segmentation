@@ -5,7 +5,7 @@ Traditional marketing approaches treat all customers equally, leading to ineffic
 
 ## 🚀 Project Impact
 - **Marketing Efficiency**: Improved targeting accuracy by 35%
-- **Conversion Rate**: Increased from 8% to 15% through personalized campaigns  
+- **Conversion Rate**: Increased from 8% to 15% through personalized campaigns
 - **Resource Optimization**: Reduced marketing costs by 25%
 
 ## 📈 Results Summary
@@ -14,15 +14,7 @@ Traditional marketing approaches treat all customers equally, leading to ineffic
 - **Key Segments**: Premium Customers, Budget Shoppers, Occasional Buyers
 
 ## 🛠️ Tech Stack
-Python 3.9, Pandas, Scikit-learn, Matplotlib, Streamlit
-
-## 📁 Project Structure
-kmeans-segmentation/
-├── data/              # Raw and processed data
-├── notebooks/         # Jupyter notebook analysis
-├── src/              # Python modules
-├── results/          # Output visualizations
-└── deployment/       # Streamlit web app
+- Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## 👨‍💻 Author
-**Your Name** - Data Analyst
+**Yuda** - Data Analyst
