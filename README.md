@@ -1,5 +1,3 @@
-# Edit README.md lagi untuk perfection
-cat > README.md << 'EOF'
 # 🎯 Customer Segmentation using K-Means Clustering
 
 ## 📊 Business Problem
@@ -22,3 +20,12 @@ Traditional marketing approaches treat all customers equally, leading to ineffic
 - Matplotlib & Seaborn (Visualization)
 
 ## 📁 Project Structure
+kmeans-segmentation/
+├── data/ # Customer data
+├── notebooks/ # Jupyter analysis
+├── src/ # Python modules
+├── deployment/ # Streamlit app
+└── results/ # Output visualizations
+
+## 👨‍💻 Author
+**Yuda-TW** - Data Analyst
