@@ -1,0 +1,6 @@
+customer_id,recency,frequency,monetary,avg_order_value
+1,30,5,500,100
+2,5,15,1500,100
+3,60,2,200,100
+4,15,8,800,100
+5,90,1,50,50
