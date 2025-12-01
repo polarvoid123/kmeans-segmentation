@@ -14,7 +14,18 @@ Traditional marketing approaches treat all customers equally, leading to ineffic
 - **Key Segments**: Premium Customers, Budget Shoppers, Occasional Buyers
 
 ## 🛠️ Tech Stack
-- Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+- Python 3.9
+- Pandas & NumPy (Data Processing)
+- Scikit-learn (Machine Learning) 
+- Matplotlib & Seaborn (Visualization)
+
+## 📁 Project Structure
+kmeans-segmentation/
+├── data/                   # Customer data
+├── notebooks/              # Jupyter analysis
+├── src/                    # Python modules
+├── deployment/             # Streamlit app
+└── results/                # Output visualizations
 
 ## 👨‍💻 Author
-**Yuda** - Data Analyst
+**Yuda TW** - Data Analyst
